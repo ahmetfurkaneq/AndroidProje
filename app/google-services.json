@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436898421960",
+    "project_id": "androidproje-ed58b",
+    "storage_bucket": "androidproje-ed58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436898421960:android:8e1f0f3e668552654519fd",
+        "android_client_info": {
+          "package_name": "com.example.androidproje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-2USgUE4ZRWJUtERLaFnmDupONE8ILgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
